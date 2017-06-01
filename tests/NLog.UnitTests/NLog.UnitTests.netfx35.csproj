@@ -121,6 +121,7 @@
     <Compile Include="Config\TargetConfigurationTests.cs" />
     <Compile Include="Config\TimeConfigurationTests.cs" />
     <Compile Include="Config\VariableTests.cs" />
+    <Compile Include="Config\XmlConfigNodesOrderTests.cs" />
     <Compile Include="Config\XmlConfigTests.cs" />
     <Compile Include="ConfigFileLocatorTests.cs" />
     <Compile Include="Contexts\GlobalDiagnosticsContextTests.cs" />
@@ -174,6 +175,7 @@
     <Compile Include="LayoutRenderers\MdlcLayoutRendererTests.cs" />
     <Compile Include="LayoutRenderers\MessageTests.cs" />
     <Compile Include="LayoutRenderers\NDCTests.cs" />
+    <Compile Include="LayoutRenderers\NDLCTests.cs" />
     <Compile Include="LayoutRenderers\NLogDirRendererTests.cs" />
     <Compile Include="LayoutRenderers\ProcessIdLayoutRendererTests.cs" />
     <Compile Include="LayoutRenderers\ProcessNameLayoutRendererTests.cs" />
